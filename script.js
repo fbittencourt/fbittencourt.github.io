@@ -1,3 +1,6 @@
-function FirstScript(){
-  let myVar = 'script';
+function FirstScript() {
+	const myVar = 'script';
+	return myVar;
 }
+
+FirstScript();

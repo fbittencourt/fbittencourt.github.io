@@ -1,0 +1,25 @@
+{
+  "name": "fbittencourt.github.io",
+  "version": "1.0.1",
+  "description": "This is my portfolio",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbittencourt/fbittencourt.github.io.git"
+  },
+  "author": "Felipe Bittencourt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fbittencourt/fbittencourt.github.io/issues"
+  },
+  "homepage": "https://github.com/fbittencourt/fbittencourt.github.io#readme",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-eiskaffee": "^1.0.17",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-react": "^7.6.1"
+  }
+}
